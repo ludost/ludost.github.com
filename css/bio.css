@@ -10,15 +10,15 @@ body {
 }
 .container{
 	position:absolute;
-	top:35px;
+	top:55px;
 	left:0px;
 	width:99%;
 	height:auto;	
 }
 .contents {
 	background:white;
-	position:absolute;
-	top:0px;
+	position:relative;
+	top:-25px;
 	width:auto;
 	height:auto;
 	left:275px;
@@ -37,7 +37,7 @@ body {
 	padding:5px;
 	margin:5px;
 	position:absolute;
-	top:0px;
+	top:-25px;
 	left:0px;
 	width:250px;
 	text-align:left;

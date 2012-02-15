@@ -15,13 +15,20 @@ body {
 	width:99%;
 	height:auto;	
 }
-.contents {
-	background:white;
-	position:relative;
+.contents_wrapper{
+	position:absolute;
 	top:-25px;
 	width:auto;
 	height:auto;
-	left:275px;
+	left:275px;	
+}
+.contents {
+	background:white;
+	position:relative;
+	top:0px;
+	width:95%;
+	height:auto;
+	left:0px;
 	padding:15px;
 	margin:5px;
 	-moz-border-radius: 10px !important;
